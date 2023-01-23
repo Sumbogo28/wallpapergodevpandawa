@@ -1,0 +1,438 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"-",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"-",
+      "backup_ads_intertitial":"-",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Gorila Tag",
+      "image": "https://i.pinimg.com/236x/19/f8/97/19f897627405fc27123cba0049ca40f8.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Gorila Tag VR",
+      "image": "https://i.pinimg.com/236x/09/bf/6b/09bf6b8ce6d7c8fdfdc74ed5b4cdef56.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Gorila Tag 4K",
+      "image": "https://i.pinimg.com/236x/50/cc/c6/50ccc6c86e392ca5137b10b804fb6515.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 1",
+      "image":"https://i.pinimg.com/236x/19/f8/97/19f897627405fc27123cba0049ca40f8.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 2",
+      "image": "https://i.pinimg.com/236x/9b/12/9c/9b129c1d38e5b6f7ae2423b859a3a293.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 3",
+      "image":"https://i.pinimg.com/236x/0b/32/44/0b32448355e2dccc466a8dfcb6e39dd6.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 4",
+      "image":"https://i.pinimg.com/236x/90/98/d0/9098d0e87ee0f74b285563ee9d888a67.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 5"
+      "image":"https://i.pinimg.com/236x/09/bf/6b/09bf6b8ce6d7c8fdfdc74ed5b4cdef56.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 6",
+      "image":"https://i.pinimg.com/236x/72/bd/15/72bd15caa9d734543d64f63ea2ff2d47.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 7",
+      "image": "https://i.pinimg.com/236x/0e/83/17/0e831733b420863c7b4a39ca69efe392.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 8",
+      "image":"https://i.pinimg.com/236x/9b/95/c2/9b95c2eb6cccf18370fe5f0fcbab72e8.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 9",
+      "image":"https://i.pinimg.com/236x/5e/8c/27/5e8c27823764be4ca098d4ce81c0165a.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 10"
+      "image":"https://i.pinimg.com/236x/5b/b0/58/5bb058482ff1a4fed9ec2e9aba09c812.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 11",
+      "image":"https://i.pinimg.com/236x/19/f8/97/19f897627405fc27123cba0049ca40f8.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 12",
+      "image": "https://i.pinimg.com/236x/97/32/6a/97326a6bee9c536b22615cee1d45298f.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 13",
+      "image":"https://i.pinimg.com/236x/d5/c6/79/d5c679a02fcf82a2a3069f24c431c0dd.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 14",
+      "image":"https://i.pinimg.com/236x/cd/cc/6c/cdcc6cdcb417e7ee773cc32e52323e89.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Gorila Tag",
+      "title":"Gorila Tag 5"
+      "image":"https://i.pinimg.com/236x/58/e5/ee/58e5eed460913ffa9e547bb7d9fa9c0e.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 16",
+      "image":"https://i.pinimg.com/236x/33/ec/1d/33ec1db3f55ae7653c01c9e9581e1de4.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 17",
+      "image": "https://i.pinimg.com/236x/68/cc/e7/68cce78ae23101c849e40f7b90f7c219.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Gorila Tag VR ",
+      "title":"Gorila Tag VR 18",
+      "image":"https://i.pinimg.com/236x/87/d1/e2/87d1e2a3de8dd6b9c397b919a1b37996.jpg"
+    },
+    {
+      "id"19,
+      "name_category": "Gorila Tag VR ",
+      "title":"Gorila Tag VR 19",
+      "image":"https://i.pinimg.com/236x/02/c6/f2/02c6f2c46e40cc642dabc2206ef1fb63.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 20"
+      "image":"https://i.pinimg.com/236x/50/cc/c6/50ccc6c86e392ca5137b10b804fb6515.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 21",
+      "image":"https://i.pinimg.com/236x/29/3b/1d/293b1d0fd0cbea87935938a3f7629d03.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 22",
+      "image": "https://i.pinimg.com/236x/cd/12/c6/cd12c6a2797523bf78f5e7cbbc392e20.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Gorila Tag VR ",
+      "title":"Gorila Tag VR 23",
+      "image":"https://i.pinimg.com/236x/f0/98/29/f098293216ca2b3160fd3d733faf9cfc.jpg"
+    },
+    {
+      "id"24,
+      "name_category": "Gorila Tag VR ",
+      "title":"Gorila Tag VR 24",
+      "image":"https://i.pinimg.com/236x/ca/30/59/ca305919eb4bf5c05aa4a1614e040daf.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 25"
+      "image":"https://i.pinimg.com/236x/67/6e/ba/676eba3ca55dc05081bb76a4ab07e910.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 26",
+      "image":"https://i.pinimg.com/236x/c7/bb/c2/c7bbc2cbc7be96f5561891635e646ed8.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 27",
+      "image": "https://i.pinimg.com/236x/16/e2/d5/16e2d517502dfc9966cdcc4b94eb2b3c.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Gorila Tag VR ",
+      "title":"Gorila Tag VR 28",
+      "image":"https://i.pinimg.com/236x/92/42/6c/92426c1047c7bc7ee702f60eb42f4791.jpg"
+    },
+    {
+      "id"29,
+      "name_category": "Gorila Tag VR ",
+      "title":"Gorila Tag VR 29",
+      "image":"https://i.pinimg.com/236x/53/80/99/538099a525f9a89d33c6042805f0882a.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Gorila Tag VR",
+      "title":"Gorila Tag VR 30"
+      "image":"https://i.pinimg.com/236x/84/55/00/845500f197301bd74f15918a7e914fed.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 31"
+      "image":"https://i.pinimg.com/236x/59/4b/1b/594b1bf57a9b72cf492cb91d23ddbae7.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 32"
+      "image":"https://i.pinimg.com/236x/cd/f4/d4/cdf4d4dcd8bbe750368c3f3ff5deaac3.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 33"
+      "image":"https://i.pinimg.com/236x/08/79/0a/08790af245b40bfc8bb09af03b4c6550.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 34"
+      "image":"https://i.pinimg.com/236x/57/b2/fc/57b2fcea2599a069fda399317473c6f9.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 35"
+      "image":"https://i.pinimg.com/236x/57/b2/fc/57b2fcea2599a069fda399317473c6f9.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 36"
+      "image":"https://i.pinimg.com/236x/ae/8d/00/ae8d00a57b648ea5087d07fa5c82624f.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 37"
+      "image":"https://i.pinimg.com/236x/a2/37/eb/a237eb4b52a8b77431bc1dc9b0d1740e.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 38"
+      "image":"https://i.pinimg.com/236x/9b/85/7a/9b857a0bdd9d6e3269ed5315196f0f80.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 39"
+      "image":"https://i.pinimg.com/236x/6f/c4/8e/6fc48e0eb1ac5fc748b8e49e9b75be79.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 40"
+      "image":"https://i.pinimg.com/236x/71/8b/3d/718b3dd2319e161ba5867bc829d7c264.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 41"
+      "image":"https://i.pinimg.com/236x/81/df/d0/81dfd0525e4501b190c718ab54053bb0.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 42"
+      "image":"https://i.pinimg.com/236x/47/e9/4a/47e94a16948d6f74a20e7560c4a9c21b.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 43"
+      "image":"https://i.pinimg.com/236x/08/a3/3d/08a33dd11eba3992f1cc592e11be5077.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 44"
+      "image":"https://i.pinimg.com/236x/ef/23/5c/ef235c1d228e5c08ef409a4452c3c992.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 45"
+      "image":"https://i.pinimg.com/236x/e5/8c/66/e58c665cbecf7478141b186b53023f40.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 46"
+      "image":"https://i.pinimg.com/236x/98/80/6e/98806e19f9747f29f21f22a4b3630b76.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 47"
+      "image":"https://i.pinimg.com/236x/fb/49/e7/fb49e7f02992e3087852a38de887fcdf.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 48"
+      "image":"https://i.pinimg.com/236x/16/40/f4/1640f474b2133d7accac2dd02dff4738.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 49"
+      "image":"https://i.pinimg.com/236x/84/55/00/845500f197301bd74f15918a7e914fed.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 50"
+      "image":"https://i.pinimg.com/236x/16/40/f4/1640f474b2133d7accac2dd02dff4738.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 51"
+      "image":"https://i.pinimg.com/236x/2a/65/91/2a65913a880b7ff6ccb3e5b9cd1fbfe0.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 52"
+      "image":"https://i.pinimg.com/236x/e0/60/90/e06090cce60fdd409df9a00170cf8696.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 53"
+      "image":"https://i.pinimg.com/236x/3c/9f/d7/3c9fd781eca8c486f76f0cfe82f4cce7.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 54"
+      "image":"https://i.pinimg.com/236x/91/aa/e9/91aae924df53c4c638ffce2f61681d3d.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 55"
+      "image":"https://i.pinimg.com/236x/51/6e/c7/516ec73dd7da7b78d1db340069de2d7d.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 56"
+      "image":"https://i.pinimg.com/236x/32/29/f4/3229f460fc06b4f050850267a4af804c.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 57"
+      "image":"https://i.pinimg.com/236x/d5/35/44/d53544560da8ce9630919f7ee70e4e55.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 58"
+      "image":"https://i.pinimg.com/236x/de/f3/fb/def3fb59023fe589a02b9018274c5e93.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 59"
+      "image":"https://i.pinimg.com/236x/ad/74/d8/ad74d8a98d902dd3eb4ee4d09f6d10a6.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Gorila Tag 4K",
+      "title":"Gorila Tag 4K 60"
+      "image":"https://i.pinimg.com/236x/cc/eb/9c/cceb9c57f38428117c068f735bd45270.jpg"
+    }
+  ]
+}
