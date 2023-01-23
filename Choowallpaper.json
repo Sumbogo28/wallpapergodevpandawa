@@ -97,7 +97,8 @@
       "name_category": "Choo Train",
       "title":"Choo Train 4",
       "image":"https://i.pinimg.com/564x/cd/89/52/cd89524980a9831b73927b07d3fa3765.jpg"
-    }{
+    },
+    {
       "id":5,
       "name_category": "Choo Train",
       "title":"Choo Train 5",
@@ -121,7 +122,6 @@
       "title":"Choo Train 8",
       "image":"https://i.pinimg.com/564x/2f/e0/51/2fe051b7a71a3dffee94fb6d23ddf9b8.jpg"
     },
-	,
     {
       "id":9,
       "name_category": "Choo Train",
