@@ -1,0 +1,438 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"-",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"-",
+      "backup_ads_intertitial":"-",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Avatar 2 4K",
+      "image": "https://i.pinimg.com/236x/b7/0a/20/b70a20dfbd6127811e05c11e6154a942.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Avatar 2 Ultra HD",
+      "image": "https://i.pinimg.com/564x/ba/c8/de/bac8de28fb02de165cedc6e15cbe0fcb.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Avatar HD",
+      "image": "https://i.pinimg.com/236x/d9/e5/0f/d9e50fab70ab347b4034e740977ea940.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 1",
+      "image":"https://i.pinimg.com/236x/b7/0a/20/b70a20dfbd6127811e05c11e6154a942.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 2",
+      "image":"https://i.pinimg.com/236x/b1/60/ae/b160aeca07e711d3ab4c72262a9f445d.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 3",
+      "image":"https://i.pinimg.com/236x/6c/a8/0c/6ca80c83c5abba398d20a0f562dfd563.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 4",
+      "image":"https://i.pinimg.com/236x/2a/21/1c/2a211c29151dfbce9fbfd75e4ed6191b.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 5",
+      "image":"https://i.pinimg.com/236x/b7/0a/20/b70a20dfbd6127811e05c11e6154a942.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 6",
+      "image":"https://i.pinimg.com/236x/18/cd/5f/18cd5f54faceb7f6d0d7b9fcb18499ea.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 7",
+      "image":"https://i.pinimg.com/236x/f2/9b/f7/f29bf79fb00344515d606a9dd1d89b59.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 8",
+      "image":"https://i.pinimg.com/236x/d4/bc/13/d4bc13f9dd8fe33c5df5d95a1525e24b.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 9",
+      "image":"https://i.pinimg.com/236x/fa/e8/6c/fae86c848ec988094122841482f9ba5e.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 10",
+      "image":"https://i.pinimg.com/236x/1d/50/b9/1d50b9fd689ac9ee07e476845bec930f.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 11",
+      "image":"https://i.pinimg.com/236x/4a/a8/9a/4aa89aa7c072c261727638fa66138d13.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 4",
+      "image":"https://i.pinimg.com/236x/ab/dd/9c/abdd9c50a7207e312a4499dc153768de.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 13",
+      "image":"https://i.pinimg.com/236x/d9/e5/0f/d9e50fab70ab347b4034e740977ea940.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 14",
+      "image":"https://i.pinimg.com/236x/d4/dd/24/d4dd242fbf3abed6da1e2f80a695790b.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 15",
+      "image":"https://i.pinimg.com/236x/70/9b/1f/709b1ff5c2218152bbcf2149df2a0201.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 16",
+      "image":"https://i.pinimg.com/236x/49/4d/58/494d587b001b2f9f8f7de0b5d1181ec6.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 17",
+      "image":"https://i.pinimg.com/236x/c1/21/f9/c121f942d0a8f264d51fe417a98cd894.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 18",
+      "image":"https://i.pinimg.com/236x/90/b3/87/90b387061266f988fcea689562c5daff.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 19",
+      "image":"https://i.pinimg.com/236x/18/54/9b/18549b58f8a1fd51aaacdf12039b04a1.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Avatar 2 4K",
+      "title":"Avatar 2 4K 20",
+      "image":"https://i.pinimg.com/236x/f2/9b/f7/f29bf79fb00344515d606a9dd1d89b59.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 21",
+      "image":"https://i.pinimg.com/236x/f0/3d/a7/f03da769a6cb6f49055004f50573759a.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 22",
+      "image":"https://i.pinimg.com/236x/31/c3/f0/31c3f080c434c50036f1ef641315dc07.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 23",
+      "image":"https://i.pinimg.com/236x/1d/50/b9/1d50b9fd689ac9ee07e476845bec930f.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 24",
+      "image":"https://i.pinimg.com/236x/a0/5e/40/a05e4065e593eb5e57605352ce46faed.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 25",
+      "image":"https://i.pinimg.com/236x/fb/1d/b6/fb1db6e2f6e3900f4e955eafcafdc86c.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 26",
+      "image":"https://i.pinimg.com/236x/53/2b/2f/532b2f095f9ccb8904fa6d5c103041b0.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 27",
+      "image":"https://i.pinimg.com/236x/3f/f3/50/3ff35047e28469853e451a2b56c06819.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 28",
+      "image":"https://i.pinimg.com/236x/d9/e5/0f/d9e50fab70ab347b4034e740977ea940.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 29",
+      "image":"https://i.pinimg.com/236x/65/30/3c/65303cea0d5230a787d6358ce46bcc5e.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 30",
+      "image":"https://i.pinimg.com/236x/11/f3/9b/11f39b7bdc79a2477cc7d065deee8260.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 31",
+      "image":"https://i.pinimg.com/236x/7d/86/8e/7d868e3eecbe46bdf26a2ccda68c37b5.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 32",
+      "image":"https://i.pinimg.com/236x/1d/50/b9/1d50b9fd689ac9ee07e476845bec930f.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 33",
+      "image":"https://i.pinimg.com/236x/86/52/f7/8652f7c58c39d55e60b4ceda60fc4970.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 34",
+      "image":"https://i.pinimg.com/236x/1c/aa/a7/1caaa7734e3c9e2506876d3a15512109.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 35",
+      "image":"https://i.pinimg.com/236x/c1/46/15/c146151cee20ad67afe176745b343577.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 36",
+      "image":"https://i.pinimg.com/236x/77/f9/25/77f925c1bad8f42abf40a9688b2bc5bf.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 37",
+      "image":"https://i.pinimg.com/236x/c8/3f/ae/c83faee8b73450490cec4cab528b17c6.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 38",
+      "image":"https://i.pinimg.com/236x/77/3f/ad/773fadc2b14f157efd863fdd6cf1517c.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 39",
+      "image":"https://i.pinimg.com/236x/ba/4a/2b/ba4a2b7d95a7a75f49dc37d2456e1210.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Avatar 2 Ultra HD",
+      "title":"Avatar 2 Ultra HD 40",
+      "image":"https://i.pinimg.com/236x/b8/72/eb/b872ebce35eda709cca09df8bf323923.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 41",
+      "image":"https://i.pinimg.com/236x/49/91/73/499173243871030c56724b17ba07ca8a.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 42",
+      "image":"https://i.pinimg.com/236x/f2/80/f6/f280f68bb2008d2ebbc63c4faa56ec1a.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 43",
+      "image":"https://i.pinimg.com/236x/83/a4/6c/83a46cd3d5acb1c9386060c4aae0a3ef.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 44",
+      "image":"https://i.pinimg.com/236x/28/05/cf/2805cfa977e88e72de73e3b2d5621577.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 45",
+      "image":"https://i.pinimg.com/236x/78/3d/0d/783d0df775cf5e21db511db0cc6b941c.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 46",
+      "image":"https://i.pinimg.com/236x/11/f3/9b/11f39b7bdc79a2477cc7d065deee8260.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 47",
+      "image":"https://i.pinimg.com/236x/96/50/87/9650875af7bc766d5f31b4eb3b72e5db.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 48",
+      "image":"https://i.pinimg.com/236x/d0/f3/b3/d0f3b3434740ea176d2b7c202f2f3338.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 49",
+      "image":"https://i.pinimg.com/236x/84/43/1d/84431dcb9b82d4b8d9bae152d5d2cbed.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 50",
+      "image":"https://i.pinimg.com/236x/48/e6/27/48e6279f51629475cd51bd0c5d1b6ac6.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 51",
+      "image":"https://i.pinimg.com/236x/20/3f/e7/203fe734f5277618046926c68dfa36be.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 52",
+      "image":"https://i.pinimg.com/236x/74/7e/3d/747e3de2b829211041f160e3b74e9839.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 53",
+      "image":"https://i.pinimg.com/736x/47/82/f4/4782f488ccb643c517ab97c5ae169244.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 54",
+      "image":"https://i.pinimg.com/236x/cd/fb/c7/cdfbc726a102ac4362ab181d809b559d.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 55",
+      "image":"https://i.pinimg.com/236x/2d/9c/24/2d9c2451a85575c2c1010ce9e784c17c.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 56",
+      "image":"https://i.pinimg.com/236x/97/3d/d4/973dd4dc1ba0dadbc6654b1ffe7f1ada.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 57",
+      "image":"https://i.pinimg.com/236x/77/f9/25/77f925c1bad8f42abf40a9688b2bc5bf.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 58",
+      "image":"https://i.pinimg.com/236x/e9/eb/4c/e9eb4cf673f6f592bd3abf82d72175e9.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 59",
+      "image":"https://i.pinimg.com/236x/f3/10/c3/f310c3b60bd99f783a2bb5f1c156010b.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Avatar HD",
+      "title":"Avatar HD 60",
+      "image":"https://i.pinimg.com/236x/77/3f/ad/773fadc2b14f157efd863fdd6cf1517c.jpg"
+    }
+  ]
+}
