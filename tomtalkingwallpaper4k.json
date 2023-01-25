@@ -1,0 +1,408 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"-",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"-",
+      "backup_ads_intertitial":"-",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tom Talking",
+      "image": "https://i.pinimg.com/564x/7b/0d/ea/7b0deaf848347b2bc9886b1bd85c21be.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Talking Tom Hero",
+      "image": "https://i.pinimg.com/564x/77/8b/63/778b63116b5fc0f390c0e895c8f4b2d4.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Tom Talking Series",
+      "image": "https://i.pinimg.com/564x/bc/65/f5/bc65f5a614a60d8f8cbb0da35e7dc5b6.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 1",
+      "image":"https://i.pinimg.com/564x/7b/0d/ea/7b0deaf848347b2bc9886b1bd85c21be.jpg"
+    },
+	{
+      "id":2,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 2",
+      "image":"https://i.pinimg.com/564x/e4/69/db/e469dbb10d2147e516c078cb286d1279.jpg"
+    },
+	{
+      "id":3,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 3",
+      "image":"https://i.pinimg.com/564x/79/9c/76/799c76f5e43b5c1be52cb8ae520fe028.jpg"
+    },
+	{
+      "id":4,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 4",
+      "image":"https://i.pinimg.com/564x/51/1a/f0/511af0a7b864f168e539269d4c2f063e.jpg"
+    },
+	{
+      "id":5,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 5",
+      "image":"https://i.pinimg.com/564x/62/eb/d2/62ebd2a972655c4beb5f58f3f388548e.jpg"
+    },
+	{
+      "id":6,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 6",
+      "image":"https://i.pinimg.com/564x/3d/cc/4b/3dcc4b08abef5305431a2cde5dc5eb05.jpg"
+    },
+	{
+      "id":7,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 7",
+      "image":"https://i.pinimg.com/564x/ab/d9/6e/abd96e0a37f3ed2b73a3825ef3e034d0.jpg"
+    },
+	{
+      "id":8,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 8",
+      "image":"https://i.pinimg.com/564x/77/8b/63/778b63116b5fc0f390c0e895c8f4b2d4.jpg"
+    },
+	{
+      "id":9,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 9",
+      "image":"https://i.pinimg.com/564x/8c/86/39/8c8639d24017682159f639c0304164f4.jpg"
+    },
+	{
+      "id":10,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 10",
+      "image":"https://i.pinimg.com/564x/c2/15/13/c215137f1cebc9f72b3c8c2f1889d7cd.jpg"
+    },
+	{
+      "id":11,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 11",
+      "image":"https://i.pinimg.com/564x/8b/c5/23/8bc5236c59e83af1189f8e12a288d527.jpg"
+    },
+	{
+      "id":12,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 12",
+      "image":"https://i.pinimg.com/564x/a8/4f/1d/a84f1d5855c4684c9ef7516cd532e1d7.jpg"
+    },
+	{
+      "id":13,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 13",
+      "image":"https://i.pinimg.com/564x/bc/65/f5/bc65f5a614a60d8f8cbb0da35e7dc5b6.jpg"
+    },
+	{
+      "id":14,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 14",
+      "image":"https://i.pinimg.com/564x/80/4a/87/804a87341d2208b6e6525d382393b7d0.jpg"
+    },
+	{
+      "id":15,
+      "name_category": "Tom Talking",
+      "title":"Tom Talking 15",
+      "image":"https://i.pinimg.com/564x/c1/ea/f2/c1eaf25421568b9d1e9d9bc357a81372.jpg"
+    },
+	{
+      "id":16,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 16",
+      "image":"https://i.pinimg.com/564x/39/c8/5c/39c85c59eb33cfec99fd844661ec6a02.jpg"
+    },
+	{
+      "id":17,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 17",
+      "image":"https://i.pinimg.com/564x/1f/24/33/1f2433a554a22954cee4535d6c1c726d.jpg"
+    },
+	{
+      "id":18,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 18",
+      "image":"https://i.pinimg.com/564x/09/a7/b9/09a7b91a36d1d81a5031554fdb655659.jpg"
+    },
+	{
+      "id":19,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 19",
+      "image":"https://i.pinimg.com/564x/38/99/4b/38994bfa5b5b0c025d54ef9e167aab64.jpg"
+    },
+	{
+      "id":20,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 20",
+      "image":"https://i.pinimg.com/564x/f6/b3/69/f6b369ecec012659fb7200cbf871033d.jpg"
+    },
+	{
+      "id":21,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 21",
+      "image":"https://i.pinimg.com/564x/bb/52/1b/bb521be470f66ac934d3c343e4000695.jpg"
+    },
+	{
+      "id":22,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 22",
+      "image":"https://i.pinimg.com/564x/84/34/a9/8434a9dd6d8a7cb9d64de9784430f9e4.jpg"
+    },
+	{
+      "id":23,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 23",
+      "image":"https://i.pinimg.com/564x/5f/6f/ea/5f6fea6bb26eca969f752d409953b174.jpg"
+    },
+	{
+      "id":24,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 24",
+      "image":"https://i.pinimg.com/564x/dc/2d/3a/dc2d3a62787710a3d86d835433c044f2.jpg"
+    },
+	{
+      "id":25,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 25",
+      "image":"https://i.pinimg.com/564x/99/84/f2/9984f2e02575a5b34a2939ee0c49719d.jpg"
+    },
+	{
+      "id":26,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 26",
+      "image":"https://i.pinimg.com/564x/c8/13/79/c8137966c4f04f70c12d033d525edc30.jpg"
+    },
+	{
+      "id":27,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 27",
+      "image":"https://i.pinimg.com/564x/d7/9c/0c/d79c0cf2456f6780f64e265c86cbc1cb.jpg"
+    },
+	{
+      "id":28,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 28",
+      "image":"https://i.pinimg.com/564x/d2/d8/2b/d2d82b8d0e8b3b8e539bd697a858f1e0.jpg"
+    },
+	{
+      "id":29,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 29",
+      "image":"https://i.pinimg.com/564x/16/1e/3c/161e3c352889cdea4c45bdb1de81d440.jpg"
+    },
+	{
+      "id":30,
+      "name_category": "Talking Tom Hero",
+      "title":"Talking Tom Hero 30",
+      "image":"https://i.pinimg.com/564x/f2/15/7b/f2157bfff92f4698db5940779936e416.jpg"
+    },
+	{
+      "id":31,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 31",
+      "image":"https://i.pinimg.com/564x/46/88/84/4688844288be1dc55dd05c495cd60bc9.jpg"
+    },
+	{
+      "id":32,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 32",
+      "image":"https://i.pinimg.com/564x/a9/80/47/a98047763547aa7782bfdbc4870d838e.jpg"
+    },
+	{
+      "id":33,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 33",
+      "image":"https://i.pinimg.com/564x/5b/8e/4b/5b8e4b9d649366d2f29ce7ce861dea3f.jpg"
+    },
+	{
+      "id":34,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 34",
+      "image":"https://i.pinimg.com/564x/6a/fa/2b/6afa2b4adad235a6349e81c3746d31a0.jpg"
+    },
+	{
+      "id":35,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 35",
+      "image":"https://i.pinimg.com/564x/c8/52/8c/c8528c1ccf0913dd9ad6c566e2a85ee4.jpg"
+    },
+	{
+      "id":36,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 36",
+      "image":"https://i.pinimg.com/564x/05/b1/21/05b12167cf96190443a632124a36d980.jpg"
+    },
+	{
+      "id":37,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 37",
+      "image":"https://i.pinimg.com/564x/28/12/c1/2812c11a7c443d7c0145f82a846ee568.jpg"
+    },
+	{
+      "id":38,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 38",
+      "image":"https://i.pinimg.com/564x/40/d6/11/40d611e3099be92e63aff00123b7c0de.jpg"
+    },
+	{
+      "id":39,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 39",
+      "image":"https://i.pinimg.com/564x/c9/37/05/c937052f89fd8ab997044340029fb58f.jpg"
+    },
+	{
+      "id":40,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 40",
+      "image":"https://i.pinimg.com/564x/4d/4a/61/4d4a6150a6eb5f0a1fae31438f82af63.jpg"
+    },
+	{
+      "id":41,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 41",
+      "image":"https://i.pinimg.com/564x/e1/75/42/e1754228e323b9006f13c81748ab2fa3.jpg"
+    },
+	{
+      "id":42,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 42",
+      "image":"https://i.pinimg.com/564x/23/54/06/235406507427e2bec43e830d71fc0b00.jpg"
+    },
+	{
+      "id":43,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 43",
+      "image":"https://i.pinimg.com/564x/30/2f/3a/302f3ab59e75b04dceb88b639b79bf35.jpg"
+    },
+	{
+      "id":44,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 44",
+      "image":"https://i.pinimg.com/564x/b8/58/e0/b858e025083f7dede67f43567476fd71.jpg"
+    },
+	{
+      "id":45,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 45",
+      "image":"https://i.pinimg.com/564x/27/97/80/27978065f5b3bd9ded532f410a9d4589.jpg"
+    },
+	{
+      "id":46,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 46",
+      "image":"https://i.pinimg.com/564x/a7/a1/67/a7a16711eefd82ca562baad279891616.jpg"
+    },
+	{
+      "id":47,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 47",
+      "image":"https://i.pinimg.com/564x/3d/5b/9e/3d5b9e529b584950ceccc476d7c42e5d.jpg"
+    },
+	{
+      "id":48,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 48",
+      "image":"https://i.pinimg.com/564x/bc/96/c0/bc96c01a58efe42d94e9a35e5ab6969a.jpg"
+    },
+	{
+      "id":49,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 49",
+      "image":"https://i.pinimg.com/564x/82/32/79/82327917f32d0635327283ca42a91ca2.jpg"
+    },
+	{
+      "id":50,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 50",
+      "image":"https://i.pinimg.com/564x/a3/c2/19/a3c219882b7e9842aaff0b4bf00edeb8.jpg"
+    },
+	{
+      "id":51,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 51",
+      "image":"https://i.pinimg.com/564x/12/cd/93/12cd93184266a67c6d75c50983902557.jpg"
+    },
+	{
+      "id":52,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 52",
+      "image":"https://i.pinimg.com/564x/37/12/35/37123574dc567f40618c463f9f04fccb.jpg"
+    },
+	{
+      "id":53,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 53",
+      "image":"https://i.pinimg.com/564x/ef/1a/e7/ef1ae7e85c4db2e9bf3aa30d4b9a89c7.jpg"
+    },
+	{
+      "id":54,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 54",
+      "image":"https://i.pinimg.com/564x/ed/14/fc/ed14fce91fde0e6cd4f50574e22cdcbd.jpg"
+    },
+	{
+      "id":55,
+      "name_category": "Tom Talking Series",
+      "title":"Tom Talking Series 55",
+      "image":"https://i.pinimg.com/564x/ec/85/40/ec854086ea6f5410110eeb2cca5fc682.jpg"
+    }
+  ]
+}
