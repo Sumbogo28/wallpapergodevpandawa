@@ -1,0 +1,90 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"-",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"-",
+      "backup_ads_intertitial":"-",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Garten Wallpaper",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2232840/capsule_616x353.jpg?t=1673163599"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Garten of Baban",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2232840/header.jpg?t=1673163599"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Garten of Baban 4K",
+      "image": "https://ms.vnmod.net/wp-content/uploads/2023/01/160120231673836056.jpeg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Garten Wallpaper",
+      "title":"Garten Wallpaper 1",
+      "image":"https://image.winudf.com/v2/image1/Y29tLkdhcnRlbk9mQmFuYmFuLmhvcnJvckdhbWUuR3JlZW5Nb25zdGVyX3NjcmVlbl83XzE2NzMzNjA4OTVfMDM0/screen-7.jpg?fakeurl=1&type=.webp"
+    },
+    {
+      "id":2,
+      "name_category": "Garten Wallpaper",
+      "title":"Garten Wallpaper 2",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZ1sUzs-v2y3I_A3QnQbZewMUHLB3IlIX1gpmvC5tHtDkc74jeFup5wljUVaA1BS8xhI&usqp=CAU"
+    },
+  ]
+}
