@@ -1,0 +1,488 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"-",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"-",
+      "backup_ads_intertitial":"-",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Toca Boca",
+      "image": "https://i.pinimg.com/236x/23/68/86/2368869f138c7c434f98f4b80aca879c.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Miga Town",
+      "image": "https://i.pinimg.com/236x/df/00/d8/df00d8fde03d1898c4bca8e01a2a1d60.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Toca Boca 4K",
+      "image": "https://i.pinimg.com/564x/40/69/2f/40692f2de1fd90b8bd8123c53b10f663.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 1",
+      "image":"https://i.pinimg.com/236x/0e/df/1a/0edf1a1cebd2966b0f1b72a7c614946a.jpg"
+    },
+	{
+      "id":2,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 2",
+      "image":"https://i.pinimg.com/236x/3b/08/2b/3b082b285c0070b123738151fa934648.jpg"
+    },
+	{
+      "id":3,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 3",
+      "image":"https://i.pinimg.com/236x/d5/a2/8e/d5a28eafc3f824c8b5ff513ba0655992.jpg"
+    },
+	{
+      "id":4,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 4",
+      "image":"https://i.pinimg.com/236x/db/73/22/db7322fe3cfd2e41a3da8d8944f391c5.jpg"
+    },
+	{
+      "id":5,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 5",
+      "image":"-"
+    },
+	{
+      "id":6,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 6",
+      "image":"https://i.pinimg.com/236x/cb/1c/9e/cb1c9e6a2cf5b58e156a604d8b7d2613.jpg"
+    },
+	{
+      "id":7,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 7",
+      "image":"https://i.pinimg.com/236x/23/68/86/2368869f138c7c434f98f4b80aca879c.jpg"
+    },
+	{
+      "id":8,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 8",
+      "image":"https://i.pinimg.com/236x/03/f8/49/03f849ded15afa3c6f895906ccb8e0b0.jpg"
+    },
+	{
+      "id":9,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 9",
+      "image":"https://i.pinimg.com/236x/9d/6d/bc/9d6dbc78f6214764e65fe21313b5a0c0.jpg"
+    },
+	{
+      "id":10,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 10",
+      "image":"https://i.pinimg.com/236x/4e/0d/7b/4e0d7b2e4c423547c40278ec120e459d.jpg"
+    },
+	{
+      "id":11,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 11",
+      "image":"https://i.pinimg.com/236x/df/00/d8/df00d8fde03d1898c4bca8e01a2a1d60.jpg"
+    },
+	{
+      "id":12,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 12",
+      "image":"https://i.pinimg.com/236x/8d/7f/66/8d7f66b2b0329f3a12983cf0ffef2c52.jpg"
+    },
+	{
+      "id":13,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 13",
+      "image":"https://i.pinimg.com/236x/a5/3d/69/a53d69c4cdde299240e51902239bf5e0.jpg"
+    },
+	{
+      "id":14,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 14",
+      "image":"https://i.pinimg.com/236x/45/e4/21/45e4211c611d8268494a7923d7562197.jpg"
+    },
+	{
+      "id":15,
+      "name_category": "Toca Boca",
+      "title":"Toca Boca 15",
+      "image":"https://i.pinimg.com/236x/1e/67/b0/1e67b0e721b133e20e68563dcf9d05b6.jpg"
+    },
+	{
+      "id":16,
+      "name_category": "Miga Town",
+      "title":"Miga Town ",
+      "image":"https://i.pinimg.com/236x/8d/7f/66/8d7f66b2b0329f3a12983cf0ffef2c52.jpg"
+    },
+	{
+      "id":17,
+      "name_category": "Miga Town",
+      "title":"Miga Town 17",
+      "image":"https://i.pinimg.com/236x/8c/14/d5/8c14d51e21a2244b352da4fa08793f58.jpg"
+    },
+	{
+      "id":18,
+      "name_category": "Miga Town",
+      "title":"Miga Town 18",
+      "image":"https://i.pinimg.com/236x/45/2e/70/452e708ce6101843fd8fcb83714eec53.jpg"
+    },
+	{
+      "id":19,
+      "name_category": "Miga Town",
+      "title":"Miga Town 19",
+      "image":"https://i.pinimg.com/236x/f6/55/4c/f6554c657403ec9f3a5f4fba734add30.jpg"
+    },
+	{
+      "id":20,
+      "name_category": "Miga Town",
+      "title":"Miga Town 20",
+      "image":"https://i.pinimg.com/236x/58/5b/97/585b97f24845aaf6f765e1df87f5f891.jpg"
+    },
+	{
+      "id":21,
+      "name_category": "Miga Town",
+      "title":"Miga Town 21",
+      "image":"https://i.pinimg.com/236x/4a/c4/c6/4ac4c6d6962d6e9282508b2f7ada59e1.jpg"
+    },
+	{
+      "id":22,
+      "name_category": "Miga Town",
+      "title":"Miga Town 22",
+      "image":"https://i.pinimg.com/236x/d4/dc/28/d4dc281fde83fa6f34d6c77239bf2f55.jpg"
+    },
+	{
+      "id":23,
+      "name_category": "Miga Town",
+      "title":"Miga Town 23",
+      "image":"https://i.pinimg.com/236x/d5/31/dc/d531dc4380c67992e4584ac33086a104.jpg"
+    },
+	{
+      "id":24,
+      "name_category": "Miga Town",
+      "title":"Miga Town 24",
+      "image":"https://i.pinimg.com/236x/d4/ce/91/d4ce91765b2aca84c19659c41f8e23bc.jpg"
+    },
+	{
+      "id":25,
+      "name_category": "Miga Town",
+      "title":"Miga Town 25",
+      "image":"https://i.pinimg.com/236x/74/09/a4/7409a438f8e12e8c6941bb643eb138dd.jpg"
+    },
+	{
+      "id":26,
+      "name_category": "Miga Town",
+      "title":"Miga Town 26",
+      "image":"https://i.pinimg.com/236x/b7/6d/53/b76d53c688ef221030b8087d986eb8b0.jpg"
+    },
+	{
+      "id":27,
+      "name_category": "Miga Town",
+      "title":"Miga Town 27",
+      "image":"https://i.pinimg.com/236x/b7/11/57/b71157496a4f1f472adb87265735f3bf.jpg"
+    },
+	,
+	{
+      "id":28,
+      "name_category": "Miga Town",
+      "title":"Miga Town 28",
+      "image":"https://i.pinimg.com/236x/ed/79/3b/ed793bd1a1ed8b61bf57a909b71452a6.jpg"
+    },
+	,
+	{
+      "id":29,
+      "name_category": "Miga Town",
+      "title":"Miga Town 29",
+      "image":"https://i.pinimg.com/236x/e0/eb/6d/e0eb6d4a14ff0bd98d1db9c18fd4fc46.jpg"
+    },
+	{
+      "id":30,
+      "name_category": "Miga Town",
+      "title":"Miga Town 30",
+      "image":"https://i.pinimg.com/236x/3e/e2/13/3ee213638cf4f0238318141274819e5f.jpg"
+    },
+	{
+      "id":31,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 31",
+      "image":"https://i.pinimg.com/236x/43/53/21/435321cced7f2ce5647cfc90d3f273e1.jpg"
+    },
+	{
+      "id":32,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 32",
+      "image":"https://i.pinimg.com/236x/43/53/21/435321cced7f2ce5647cfc90d3f273e1.jpg"
+    },
+	{
+      "id":33,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 33",
+      "image":"https://i.pinimg.com/236x/c4/32/ae/c432ae9ecd99cb5de7683fb2ec187a0b.jpg"
+    },
+	{
+      "id":34,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 34",
+      "image":"https://i.pinimg.com/236x/af/ea/c6/afeac6b86a3102d7c564848770a94928.jpg"
+    },
+	{
+      "id":35,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 35",
+      "image":"https://i.pinimg.com/236x/23/32/fb/2332fb5be47d019b89fb01b24dd7777a.jpg"
+    },
+	{
+      "id":36,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 36",
+      "image":"https://i.pinimg.com/236x/c5/4f/2f/c54f2f88511dba5e2107dc4daf679ac1.jpg"
+    },
+	{
+      "id":37,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 37",
+      "image":"https://i.pinimg.com/236x/2f/ae/b0/2faeb0181c81676e23d7bb264bccccaf.jpg"
+    },
+	{
+      "id":38,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 38",
+      "image":"https://i.pinimg.com/236x/96/10/00/9610003e0e05dfe2358128a143dc437f.jpg"
+    },
+	{
+      "id":40,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 40",
+      "image":"https://i.pinimg.com/236x/09/9e/bb/099ebb2b68a3487984b28bc58dabd310.jpg"
+    },
+	{
+      "id":41,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 41",
+      "image":"https://i.pinimg.com/236x/33/23/ac/3323ac6cd05d486c6493ca7fc0ba18c6.jpg"
+    },
+	{
+      "id":42,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 42",
+      "image":"https://i.pinimg.com/236x/1b/a5/83/1ba583555422bd0af340fb75ac457aea.jpg"
+    },
+	{
+      "id":43,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 43",
+      "image":"https://i.pinimg.com/236x/42/ff/72/42ff72fae6568442ff2bf0cc4d946497.jpg"
+    },
+	{
+      "id":44,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 45",
+      "image":"https://i.pinimg.com/236x/46/d6/20/46d620cc5614fde0894daf9f70a693ec.jpg"
+    },
+	{
+      "id":46,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 46",
+      "image":"https://i.pinimg.com/236x/45/01/6b/45016b0554c3dcb76f6e13694ecd9239.jpg"
+    },
+	{
+      "id":47,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 47",
+      "image":"https://i.pinimg.com/236x/ab/3f/1f/ab3f1f797f0b6cf6cc3d93d496c9f113.jpg"
+    },
+	{
+      "id":48,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 48",
+      "image":"https://i.pinimg.com/236x/23/68/86/2368869f138c7c434f98f4b80aca879c.jpg"
+    },
+	{
+      "id":49,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 49",
+      "image":"https://i.pinimg.com/236x/ae/51/2a/ae512a3f4c717a8d75e66792265708d2.jpg"
+    },
+	{
+      "id":50,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 50",
+      "image":"https://i.pinimg.com/236x/76/e9/8e/76e98efbb0149f466c63cc454b016bc7.jpg"
+    },
+	{
+      "id":51,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 51",
+      "image":"https://i.pinimg.com/236x/a2/de/b1/a2deb100dba170d167fb2417219e49df.jpg"
+    },
+	{
+      "id":52,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 52",
+      "image":"https://i.pinimg.com/236x/68/7a/ad/687aad6f60fb34ba6dd9ec061db78ac8.jpg"
+    },
+	{
+      "id":53,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 53",
+      "image":"https://i.pinimg.com/236x/e0/a4/85/e0a485a7f5484c0e120794ae826cc4f6.jpg"
+    },
+	{
+      "id":54,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 54",
+      "image":"https://i.pinimg.com/236x/b4/94/f9/b494f92521f7e25bdae92f38b7427326.jpg"
+    },
+	{
+      "id":55,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 55",
+      "image":"https://i.pinimg.com/236x/76/d9/32/76d932b1e137f0bdcb2947639db50ad0.jpg"
+    },
+	{
+      "id":56,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 56",
+      "image":"https://i.pinimg.com/236x/ba/35/5a/ba355a55adbd0d1c01b48f5d27e644a1.jpg"
+    },
+	{
+      "id":57,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 57",
+      "image":"https://i.pinimg.com/236x/77/85/73/7785739404404c9b66775e610b15e7ff.jpg"
+    },
+	{
+      "id":58,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 58",
+      "image":"https://i.pinimg.com/236x/5a/af/b8/5aafb82fed2058937a7ab081843f2437.jpg"
+    },
+	{
+      "id":59,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 59",
+      "image":"https://i.pinimg.com/236x/6b/09/25/6b0925047fa5bf92e681294501d6ea52.jpg"
+    },
+	{
+      "id":60,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 60",
+      "image":"https://i.pinimg.com/236x/42/ff/72/42ff72fae6568442ff2bf0cc4d946497.jpg"
+    },
+	{
+      "id":61,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 61",
+      "image":"https://i.pinimg.com/236x/da/47/19/da4719493558647298dcf52ae91d34eb.jpg"
+    },
+	{
+      "id":62,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 62",
+      "image":"-"
+    },
+	{
+      "id":63,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 63",
+      "image":"https://i.pinimg.com/236x/3a/0c/0a/3a0c0a418a0e27c435a68f50cbd17dee.jpg"
+    },
+	{
+      "id":64,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 64",
+      "image":"https://i.pinimg.com/236x/77/11/f5/7711f5f976db07d38289ad9fd0a15e3d.jpg"
+    },
+	{
+      "id":65,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 65",
+      "image":"https://i.pinimg.com/236x/45/1f/72/451f72aafc62c9052cebb5bc526482ff.jpg"
+    },
+	{
+      "id":66,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 66",
+      "image":"https://i.pinimg.com/236x/45/1f/72/451f72aafc62c9052cebb5bc526482ff.jpg"
+    },
+	{
+      "id":67,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 67",
+      "image":"https://i.pinimg.com/236x/09/eb/d9/09ebd9c9d3aa4625ecdce7fbedad4441.jpg"
+    },
+	{
+      "id":68,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 68",
+      "image":"https://i.pinimg.com/236x/50/7f/93/507f93c6ac744a3bae6baab0092c3d99.jpg"
+    },
+	{
+      "id":69,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 69",
+      "image":"https://i.pinimg.com/236x/c8/ae/51/c8ae51b4ef379fbbfd8e84930c5f8c75.jpg"
+    },
+	{
+      "id":70,
+      "name_category": "Toca Boca 4K",
+      "title":"Toca Boca 4K 70",
+      "image":"https://i.pinimg.com/236x/32/b2/f2/32b2f25611d592d881e25b5c7c678eba.jpg"
+    }	
+  ]
+}
