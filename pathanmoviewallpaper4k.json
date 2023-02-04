@@ -1,0 +1,498 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"-",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"-",
+      "backup_ads_intertitial":"-",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Pathan",
+      "image": "https://i.pinimg.com/564x/9a/be/98/9abe98fec831512a92ff0221e339427d.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Pathan Movie",
+      "image": "https://i.pinimg.com/564x/d1/0d/92/d10d92ae3118526bfc0954fb27e4c6dc.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Pathan 4K",
+      "image": "https://i.pinimg.com/564x/e3/73/f6/e373f67c43394e73b8cb7f2007753c21.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Pathan",
+      "title":"Pathan 1",
+      "image":"https://i.pinimg.com/564x/9a/be/98/9abe98fec831512a92ff0221e339427d.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Pathan",
+      "title":"Pathan 2",
+      "image": "https://i.pinimg.com/564x/d1/0d/92/d10d92ae3118526bfc0954fb27e4c6dc.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Pathan",
+      "title":"Pathan 3",
+      "image":"https://i.pinimg.com/564x/26/e6/5a/26e65ae26c57c8660640ced6952d94e4.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Pathan",
+      "title":"Pathan 4",
+      "image":"https://i.pinimg.com/474x/b0/9a/2d/b09a2d2c308c3920e344f4e44aa375b1.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Pathan",
+      "title":"Pathan 5",
+      "image":"https://i.pinimg.com/564x/a9/90/be/a990beb886196c5279cc19f105ee6343.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Pathan",
+      "title":"Pathan 6",
+      "image":"https://i.pinimg.com/564x/70/02/a1/7002a1486c5f3f3ebab9e87457e5561e.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Pathan",
+      "title":"Pathan 7",
+      "image": "https://i.pinimg.com/564x/fc/34/8a/fc348a448bc6d638dcb52ca82c6faffa.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Pathan",
+      "title":"Pathan 8",
+      "image":"https://i.pinimg.com/564x/c4/93/40/c49340cc20bee26adc3ba5a1d0d1676f.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Pathan",
+      "title":"Pathan 9",
+      "image":"https://i.pinimg.com/564x/bb/b5/5a/bbb55a2873ead1924ac9e82d6d405526.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Pathan",
+      "title":"Pathan 10",
+      "image":"https://i.pinimg.com/564x/19/75/b4/1975b4bbc5670d05b900079caecb30d6.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Pathan",
+      "title":"Pathan 11",
+      "image":"https://i.pinimg.com/564x/6a/6d/b9/6a6db9a959576836fd5c42c8bc41d565.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Pathan",
+      "title":"Pathan 12",
+      "image": "https://i.pinimg.com/564x/6e/f5/4e/6ef54eb779f29c74faaf442cc1035d56.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Pathan",
+      "title":"Pathan 13",
+      "image":"https://i.pinimg.com/564x/6a/0d/94/6a0d9467f985a0c234d7303ffa8588bd.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Pathan",
+      "title":"Pathan 14",
+      "image":"https://i.pinimg.com/564x/2d/af/da/2dafda68dd0b4d38892de6a375f9f6fa.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Pathan",
+      "title":"Pathan 5",
+      "image":"https://i.pinimg.com/564x/46/aa/2b/46aa2b3921ab6a938c254a43a496c296.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 16",
+      "image":"https://i.pinimg.com/564x/d0/1d/5c/d01d5cadc4f7b05a4fc9b663088f2821.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 17",
+      "image": "https://i.pinimg.com/564x/36/6b/74/366b749d82a28379ec54f421b9aab04c.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Pathan Movie ",
+      "title":"Pathan Movie 18",
+      "image":"https://i.pinimg.com/564x/67/a5/fd/67a5fdfd9675c4b38ec04ed60e215faf.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Pathan Movie ",
+      "title":"Pathan Movie 19",
+      "image":"https://i.pinimg.com/564x/d9/f8/cc/d9f8ccde8c313d6178fdb2f8a0ad5c9a.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 20",
+      "image":"https://i.pinimg.com/564x/29/ff/a8/29ffa82534f0998c27409a56a2199b2a.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 21",
+      "image":"https://i.pinimg.com/564x/e3/94/c8/e394c8badb8e6b25f7ff9524ca2f0da6.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 22",
+      "image": "https://i.pinimg.com/564x/e3/94/c8/e394c8badb8e6b25f7ff9524ca2f0da6.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Pathan Movie ",
+      "title":"Pathan Movie 23",
+      "image":"https://i.pinimg.com/564x/23/f2/1b/23f21b636a12a8d841072debfb761250.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Pathan Movie ",
+      "title":"Pathan Movie 24",
+      "image":"https://i.pinimg.com/564x/16/59/eb/1659eb2d621056b56671e80a6eb31f52.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 25",
+      "image":"https://i.pinimg.com/564x/a6/02/32/a602327225f509bb8d52556f957b4b76.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 26",
+      "image":"https://i.pinimg.com/564x/b5/4c/13/b54c1357bf3f642ecf7f71b9b0a896af.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 27",
+      "image": "https://i.pinimg.com/564x/f2/59/08/f25908d923e06e2a57694c9358a70840.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Pathan Movie ",
+      "title":"Pathan Movie 28",
+      "image":"https://i.pinimg.com/564x/49/80/36/49803655f6a7ca2e77d3ec115a30ce1c.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Pathan Movie ",
+      "title":"Pathan Movie 29",
+      "image":"https://i.pinimg.com/564x/84/e8/0f/84e80fc5617170f97ddc52695b0278f6.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Pathan Movie",
+      "title":"Pathan Movie 30",
+      "image":"https://i.pinimg.com/564x/20/67/ed/2067ed8ef0a2d19aa9de06866565c7ae.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 31",
+      "image":"https://i.pinimg.com/564x/9c/2f/64/9c2f640021745f0170770925a9b68c6a.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 32",
+      "image":"https://i.pinimg.com/564x/5f/75/53/5f7553312378d9a5ee1b59f0a159694a.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 33",
+      "image":"https://i.pinimg.com/564x/24/dd/70/24dd701197744be2f11c8dc71e7ce048.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 34",
+      "image":"https://i.pinimg.com/564x/a4/2b/d8/a42bd88e36f827482f20ee104e6e1681.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 35",
+      "image":"https://i.pinimg.com/564x/2b/aa/d8/2baad8ff23700768ed56d42329850659.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 36",
+      "image":"https://i.pinimg.com/564x/a4/4b/29/a44b29b218b30bdfcc92e851f5f89ac8.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 37",
+      "image":"https://i.pinimg.com/564x/58/9a/08/589a08b62062488b485c3aa25972decb.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 38",
+      "image":"https://i.pinimg.com/564x/9a/ac/f1/9aacf11477d83838d7b5d6861748b268.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 39",
+      "image":"https://i.pinimg.com/564x/80/5d/09/805d09ab4718d34d462019031b2eda71.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 40",
+      "image":"https://i.pinimg.com/564x/10/e0/15/10e0156bfe80375fab5875b423efbf24.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 41",
+      "image":"https://i.pinimg.com/564x/35/b8/09/35b809bcb8bb15806ee2422385596737.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 42",
+      "image":"https://i.pinimg.com/564x/7f/e4/e2/7fe4e287f4e50659ca6cfeb46279c20c.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 43",
+      "image":"https://i.pinimg.com/564x/89/f3/dd/89f3dd530e364a5cb7c8e4d6948f3458.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 44",
+      "image":"https://i.pinimg.com/564x/b1/f1/cb/b1f1cb7ec8eb27f3342ad4aa8ad3dc3b.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 45",
+      "image":"https://i.pinimg.com/564x/61/b5/af/61b5afae17906d1b801260d26cb76f50.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 46",
+      "image":"https://i.pinimg.com/564x/46/7a/a6/467aa69754703bed4a287a21808e5c81.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 47",
+      "image":"https://i.pinimg.com/564x/87/1e/50/871e50d665f48501d417b1a114fdfcc4.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 48",
+      "image":"https://i.pinimg.com/564x/87/1e/50/871e50d665f48501d417b1a114fdfcc4.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 49",
+      "image":"https://i.pinimg.com/564x/85/21/8b/85218bf08efd9280eb96b6b2c84bbfdf.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 50",
+      "image":"https://i.pinimg.com/564x/23/0b/0c/230b0c835e59e2cd5f6187f107df7424.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 51",
+      "image":"https://i.pinimg.com/474x/55/89/98/5589985b6ca24440391f4ed5288ca80c.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 52",
+      "image":"https://i.pinimg.com/474x/55/89/98/5589985b6ca24440391f4ed5288ca80c.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 53",
+      "image":"https://i.pinimg.com/564x/cd/1d/d7/cd1dd715d14e5b07252a523c25bd55d7.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 54",
+      "image":"https://i.pinimg.com/564x/45/16/64/4516649bf5ab3ce43b3f0ee037284908.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 55",
+      "image":"https://i.pinimg.com/564x/6a/0d/94/6a0d9467f985a0c234d7303ffa8588bd.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 56",
+      "image":"https://i.pinimg.com/564x/2b/de/28/2bde28da35aee0c1b1fb431772476903.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 57",
+      "image":"https://i.pinimg.com/564x/64/6a/b1/646ab1318279ba4c8e8ffd459a525aee.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 58",
+      "image":"https://i.pinimg.com/564x/8e/b2/3c/8eb23c5de3bd899b567f21b0b3b6a309.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 59",
+      "image":"https://i.pinimg.com/564x/b0/34/e4/b034e4e86b37acdf20ae2707d7af6070.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 60",
+      "image":"https://i.pinimg.com/564x/fb/b1/87/fbb187935f74b5c2578293b27246e05d.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 61",
+      "image":"https://i.pinimg.com/564x/26/0c/53/260c538bce4c8c7e29807e7164fd7496.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 62",
+      "image":"https://i.pinimg.com/564x/4c/35/da/4c35da258fa015205a93dcb73dbdf444.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 63",
+      "image":"https://i.pinimg.com/564x/65/88/9e/65889e2a78eda408458edee85b0629f1.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 64",
+      "image":"https://i.pinimg.com/564x/9d/31/5e/9d315eb746035277031b653442d5cc50.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 65",
+      "image":"https://i.pinimg.com/564x/46/83/78/468378aed78ad1c73536f6a97dfe96c3.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 66",
+      "image":"https://i.pinimg.com/564x/13/7e/ec/137eec05fccdf594e1385cb067fae0a9.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 67",
+      "image":"https://i.pinimg.com/564x/5d/4f/f3/5d4ff3206d6b083e449305d51935edb9.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 68",
+      "image":"https://i.pinimg.com/564x/2d/17/bb/2d17bb10606163949229432db82127ce.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 69",
+      "image":"https://i.pinimg.com/564x/ea/63/f3/ea63f31f911ef2a1dd046665b69809cb.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "Pathan 4K",
+      "title":"Pathan 4K 70",
+      "image":"https://i.pinimg.com/564x/7c/06/6d/7c066d4ab38caeda1867d1fb3e7c41ce.jpg"
+    }
+  ]
+}
