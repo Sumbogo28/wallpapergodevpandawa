@@ -1,0 +1,528 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"-",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"-",
+      "backup_ads_intertitial":"-",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Mona Genshin",
+      "image": "https://i.pinimg.com/564x/41/11/33/41113355419178edf07975037d1abb6d.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Mona Genshin Wallpaper ",
+      "image": "https://i.pinimg.com/564x/ec/1d/1c/ec1d1c2e4bb7e418243b340c6e3ad64c.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Mona Genshin 4K",
+      "image": "https://i.pinimg.com/564x/2d/e2/d1/2de2d1555acb3c3e1e088b2e25a0ce8b.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 1",
+      "image":"https://i.pinimg.com/564x/1e/3c/b0/1e3cb004444eb08010f72e4c93000dae.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 2",
+      "image": "https://i.pinimg.com/564x/ec/1d/1c/ec1d1c2e4bb7e418243b340c6e3ad64c.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 3",
+      "image":"https://i.pinimg.com/564x/3c/c9/c8/3cc9c85fd5a688ee8df68bf82060cc17.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 4",
+      "image":"https://i.pinimg.com/564x/2d/e2/d1/2de2d1555acb3c3e1e088b2e25a0ce8b.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 5",
+      "image":"https://i.pinimg.com/564x/e0/54/fb/e054fbad2aed6fc9c97386003acea59a.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 6",
+      "image":"https://i.pinimg.com/564x/e8/0a/05/e80a05801ea9e5527fb2a5c28471a28c.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 7",
+      "image": "https://i.pinimg.com/564x/4c/7e/02/4c7e0275722b63fd4d4d55ccac78c95f.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 8",
+      "image":"https://i.pinimg.com/564x/7a/46/4b/7a464b324c969a72088f66e65bfc6a0f.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 9",
+      "image":"https://i.pinimg.com/564x/65/7f/15/657f1542065f23320031336e845d4f05.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 10",
+      "image":"https://i.pinimg.com/564x/c9/5c/92/c95c92b4f692d99d1f1f84ad5483f333.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 11",
+      "image":"https://i.pinimg.com/564x/47/b3/25/47b325d4fc74af5695817e766ef672bb.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 12",
+      "image": "https://i.pinimg.com/564x/b9/1a/33/b91a3390b454ab70dfdbb172708d5632.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 13",
+      "image":"https://i.pinimg.com/564x/9a/25/27/9a2527d8af01b41737ea3273f201176f.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 14",
+      "image":"https://i.pinimg.com/564x/40/92/bb/4092bb330961789ca826d6295775b9c2.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Mona Genshin",
+      "title":"Mona Genshin 5",
+      "image":"https://i.pinimg.com/564x/11/d7/55/11d7559ff00550b403d6f96d51529e94.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  16",
+      "image":"https://i.pinimg.com/564x/92/29/cd/9229cd74aaf310696ae766f04018432d.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  17",
+      "image": "https://i.pinimg.com/564x/13/1c/e5/131ce56945527fc75fde9b7b7969e06c.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Mona Genshin Wallpaper  ",
+      "title":"Mona Genshin Wallpaper  18",
+      "image":"https://i.pinimg.com/564x/e8/5b/e9/e85be97a32c53120eaa44eb13bb4e955.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Mona Genshin Wallpaper  ",
+      "title":"Mona Genshin Wallpaper  19",
+      "image":"https://i.pinimg.com/564x/64/7a/27/647a27985705994caff222756e091a8b.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  20",
+      "image":"https://i.pinimg.com/564x/ed/af/9f/edaf9f4a798547ee2d51f19413dae606.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  21",
+      "image":"https://i.pinimg.com/564x/cf/72/1f/cf721f5cdd8083426a6a97a7163cd9c6.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  22",
+      "image": "https://i.pinimg.com/564x/be/d5/67/bed567a72f82b160179f2b5046510e5a.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Mona Genshin Wallpaper  ",
+      "title":"Mona Genshin Wallpaper  23",
+      "image":"https://i.pinimg.com/564x/c5/c3/83/c5c3832eac246c0385a9f539d1082831.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Mona Genshin Wallpaper  ",
+      "title":"Mona Genshin Wallpaper  24",
+      "image":"https://i.pinimg.com/564x/e0/54/fb/e054fbad2aed6fc9c97386003acea59a.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  25",
+      "image":"https://i.pinimg.com/564x/c2/0a/8f/c20a8fafd2e658f866fc4b8f8bf18c6e.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  26",
+      "image":"https://i.pinimg.com/564x/60/69/48/6069487ee305842d85fa63fcbed519d7.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  27",
+      "image": "https://i.pinimg.com/564x/fc/73/d2/fc73d2e6e26ef367a8369d45a2ff5cfb.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Mona Genshin Wallpaper  ",
+      "title":"Mona Genshin Wallpaper  28",
+      "image":"https://i.pinimg.com/564x/85/5a/1f/855a1f44a6f4af6cdfa387288c3b6b75.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Mona Genshin Wallpaper  ",
+      "title":"Mona Genshin Wallpaper  29",
+      "image":"https://i.pinimg.com/564x/4c/7e/02/4c7e0275722b63fd4d4d55ccac78c95f.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Mona Genshin Wallpaper ",
+      "title":"Mona Genshin Wallpaper  30",
+      "image":"https://i.pinimg.com/564x/f0/f5/18/f0f5187bda13c996530dce2e9ddd2626.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 31",
+      "image":"https://i.pinimg.com/564x/94/8a/9b/948a9b61dc9cae73b61e04261f9eea2e.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 32",
+      "image":"https://i.pinimg.com/564x/57/9a/b0/579ab008b3a8b53856392a553d7e5b35.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 33",
+      "image":"https://i.pinimg.com/564x/4c/7e/02/4c7e0275722b63fd4d4d55ccac78c95f.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 34",
+      "image":"https://i.pinimg.com/564x/f0/f5/18/f0f5187bda13c996530dce2e9ddd2626.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 35",
+      "image":"https://i.pinimg.com/564x/94/8a/9b/948a9b61dc9cae73b61e04261f9eea2e.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 36",
+      "image":"https://i.pinimg.com/564x/fd/f2/18/fdf218dfcce520b0d392a17e299a7f72.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 37",
+      "image":"https://i.pinimg.com/564x/ee/85/e8/ee85e8507614a350eef29c217651e253.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 38",
+      "image":"https://i.pinimg.com/564x/5c/c2/41/5cc241c9e92a7a6e1cd64181bb3f93a5.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 39",
+      "image":"https://i.pinimg.com/564x/21/6f/b4/216fb40dc57e14db67dea855cb54ceed.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 40",
+      "image":"https://i.pinimg.com/564x/35/85/2b/35852b3fd1aa550fb81f6c375839113b.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 41",
+      "image":"https://i.pinimg.com/564x/aa/70/3a/aa703ae84ea6d3ed22d3b1bed3d80cb0.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 42",
+      "image":"https://i.pinimg.com/564x/6c/38/f6/6c38f6b9a4bc35ae66d1398e02abae73.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 43",
+      "image":"https://i.pinimg.com/564x/f6/c7/e5/f6c7e542c2f7ebadcdb1ccf1cc5aa611.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 44",
+      "image":"https://i.pinimg.com/564x/4f/2f/c8/4f2fc80655b45f5f406b569056fc26c6.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 45",
+      "image":"https://i.pinimg.com/564x/a1/24/fc/a124fcff172110f97f123786d66c4ca2.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 46",
+      "image":"https://i.pinimg.com/564x/72/32/57/7232577493269cc5781d62603573d08c.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 47",
+      "image":"https://i.pinimg.com/564x/66/ed/c7/66edc74cc0bf985ebcbc0b1f458d8cfd.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 48",
+      "image":"https://i.pinimg.com/564x/7a/2e/85/7a2e855d476f14a64e0537f8f71d797f.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 49",
+      "image":"https://i.pinimg.com/564x/fe/65/db/fe65dbf677cf563397d7621159f92529.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 50",
+      "image":"https://i.pinimg.com/564x/b1/1d/b3/b11db313094b45fde3e69bdd2cb028f5.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 51",
+      "image":"https://i.pinimg.com/564x/11/49/38/114938a54756baffed7cf2fb9564e314.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 52",
+      "image":"https://i.pinimg.com/564x/a6/ca/42/a6ca420b6682feffcf1b52ab3f468686.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 53",
+      "image":"https://i.pinimg.com/564x/f6/5e/0c/f65e0c61425b188f9fddfae726ef9f6f.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 54",
+      "image":"https://i.pinimg.com/564x/4e/2b/fc/4e2bfc3824c4707c6148e1a8dc007ef7.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 55",
+      "image":"https://i.pinimg.com/564x/42/24/a0/4224a02b082ff1624454fd818904d2cb.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 56",
+      "image":"https://i.pinimg.com/564x/c1/a4/11/c1a411e90dba52a6a617713e4519e154.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 57",
+      "image":"https://i.pinimg.com/564x/f5/5d/ae/f55dae16a037153c27672a69c96d75e3.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 58",
+      "image":"https://i.pinimg.com/564x/6e/41/5f/6e415f1ec4dc9352780b8316ee96094d.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 59",
+      "image":"https://i.pinimg.com/564x/b9/1a/33/b91a3390b454ab70dfdbb172708d5632.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 60",
+      "image":"https://i.pinimg.com/564x/f9/3e/b1/f93eb13ee22dd5affbe48ab70e8497cb.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 61",
+      "image":"https://i.pinimg.com/564x/66/b6/65/66b66536de8fe0e07754eb5d0b000299.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 62",
+      "image":"https://i.pinimg.com/564x/95/f3/78/95f3782add51e0572b90ac57060b96d4.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 63",
+      "image":"https://i.pinimg.com/564x/31/d8/e7/31d8e7b9b708611247e3d9ad4389cba7.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 64",
+      "image":"https://i.pinimg.com/564x/41/a4/a8/41a4a80bb601f56942e5cbe4a51823c0.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 65",
+      "image":"https://i.pinimg.com/564x/92/29/cd/9229cd74aaf310696ae766f04018432d.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 66",
+      "image":"https://i.pinimg.com/564x/76/b6/65/76b665807b834d9fbace5bc57d65ee34.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 67",
+      "image":"https://i.pinimg.com/564x/ec/57/aa/ec57aa71e7aa74f9742c33e3f3e83ba6.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 68",
+      "image":"https://i.pinimg.com/564x/c9/cd/22/c9cd22662ad7a662bd07c4e4f9a5c7a9.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 69",
+      "image":"https://i.pinimg.com/564x/25/15/b1/2515b1919b642f5bd9537825b0caa37a.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 70",
+      "image":"https://i.pinimg.com/564x/54/af/36/54af364ee233364a9e2a38ef1dfd8a78.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 71",
+      "image":"https://i.pinimg.com/564x/cf/fd/b4/cffdb48b01d1b9759bcf01b43a03e611.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 72",
+      "image":"https://i.pinimg.com/564x/fc/f2/2a/fcf22afc148e9af6d10726e2d3383629.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 73",
+      "image":"https://i.pinimg.com/564x/4a/46/72/4a4672c0391fac48a12d8342b99e655c.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 74",
+      "image":"https://i.pinimg.com/564x/c7/47/b5/c747b56d4a44120d02fbd739f80bec5d.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "Mona Genshin 4K",
+      "title":"Mona Genshin 4K 75",
+      "image":"https://i.pinimg.com/564x/1a/a4/07/1aa40706edc312a7e80b4c4bd07fc7e8.jpg"
+    }
+  ]
+}
