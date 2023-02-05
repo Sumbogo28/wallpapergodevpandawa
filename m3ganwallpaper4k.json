@@ -1,0 +1,558 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"-",
+      "main_ads_banner": "-",
+      "main_ads_intertitial":"-",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"-",
+      "backup_ads_intertitial":"-",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"-",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "M3gan",
+      "image": "https://i.pinimg.com/236x/46/03/84/460384b73698a9fa496818a4d3c44e32.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "M3gan Wallpaper ",
+      "image": "https://i.pinimg.com/236x/48/a0/d7/48a0d704aebc40fe17e6be693da29474.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "M3gan 4K",
+      "image": "https://i.pinimg.com/236x/e7/aa/16/e7aa16cc89ea8c8fb2252148088caabc.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "M3gan",
+      "title":"M3gan 1",
+      "image":"https://i.pinimg.com/236x/ee/1d/5e/ee1d5e4aac9b6ee962bc2a63c78a62b1.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "M3gan",
+      "title":"M3gan 2",
+      "image": "https://i.pinimg.com/236x/d6/c2/84/d6c2848a5e87fa0e00c1a62d26901f8b.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "M3gan",
+      "title":"M3gan 3",
+      "image":"https://i.pinimg.com/236x/3d/db/43/3ddb43b9eddc8ead9c6fadfa41bcd3d2.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "M3gan",
+      "title":"M3gan 4",
+      "image":"https://i.pinimg.com/236x/ba/be/2d/babe2da99bb678fc7ebc040ff9d55b24.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "M3gan",
+      "title":"M3gan 5",
+      "image":"https://i.pinimg.com/236x/17/5b/32/175b3226f16c2b4cb4ec9891ad1498aa.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "M3gan",
+      "title":"M3gan 6",
+      "image":"https://i.pinimg.com/236x/48/a0/d7/48a0d704aebc40fe17e6be693da29474.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "M3gan",
+      "title":"M3gan 7",
+      "image": "https://i.pinimg.com/236x/0c/15/cf/0c15cf77b3d8a5591e1a414753507005.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "M3gan",
+      "title":"M3gan 8",
+      "image":"https://i.pinimg.com/236x/0c/c2/2a/0cc22a9e65236ffcd04f953c0e8f837b.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "M3gan",
+      "title":"M3gan 9",
+      "image":"https://i.pinimg.com/236x/4f/de/cf/4fdecfd9d71923a107e4a4ca9bd438b9.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "M3gan",
+      "title":"M3gan 10",
+      "image":"https://i.pinimg.com/236x/e7/aa/16/e7aa16cc89ea8c8fb2252148088caabc.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "M3gan",
+      "title":"M3gan 11",
+      "image":"https://i.pinimg.com/236x/4c/ff/5a/4cff5aabd1ad57d5a6f960bef3950770.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "M3gan",
+      "title":"M3gan 12",
+      "image": "https://i.pinimg.com/236x/1c/82/17/1c82178964a59246e11a1da4d862a927.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "M3gan",
+      "title":"M3gan 13",
+      "image":"https://i.pinimg.com/236x/15/5c/fe/155cfe9194dbf2de37e099608c14eac6.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "M3gan",
+      "title":"M3gan 14",
+      "image":"https://i.pinimg.com/236x/16/10/91/1610915d8c7a6947df8e9160f6e43134.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "M3gan",
+      "title":"M3gan 5",
+      "image":"https://i.pinimg.com/236x/b7/16/2b/b7162bd624e0639f733afe2871f96e5e.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  16",
+      "image":"https://i.pinimg.com/236x/af/84/dc/af84dcd00d90249239fad42b0ee63035.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  17",
+      "image": "https://i.pinimg.com/236x/f5/24/2f/f5242f3bb1e05c5d8c0af16abe9bb6f9.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "M3gan Wallpaper  ",
+      "title":"M3gan Wallpaper  18",
+      "image":"https://i.pinimg.com/236x/51/2e/e0/512ee0d38607b357b286100fadd71592.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "M3gan Wallpaper  ",
+      "title":"M3gan Wallpaper  19",
+      "image":"https://i.pinimg.com/236x/ac/72/bc/ac72bc18c168b75c9450c118806f3661.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  20",
+      "image":"https://i.pinimg.com/236x/f0/02/d1/f002d1917c689d740b4274a460a82652.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  21",
+      "image":"https://i.pinimg.com/236x/29/ab/57/29ab576929e116432414878f33313711.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  22",
+      "image": "https://i.pinimg.com/236x/be/1d/35/be1d3566d77071c4ab74d7e00247999d.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "M3gan Wallpaper  ",
+      "title":"M3gan Wallpaper  23",
+      "image":"https://i.pinimg.com/236x/d6/29/54/d62954ae5a70bcdce2f4bf97682ee190.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "M3gan Wallpaper  ",
+      "title":"M3gan Wallpaper  24",
+      "image":"https://i.pinimg.com/236x/cc/cb/c7/cccbc766426b6362722e86d53e64531d.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  25",
+      "image":"https://i.pinimg.com/236x/2b/66/50/2b6650f5b7ef6dd554e6751077c126bc.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  26",
+      "image":"https://i.pinimg.com/236x/d9/46/a4/d946a42061732a6cf602a0ecf39626d8.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  27",
+      "image": "https://i.pinimg.com/236x/ba/be/2d/babe2da99bb678fc7ebc040ff9d55b24.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "M3gan Wallpaper  ",
+      "title":"M3gan Wallpaper  28",
+      "image":"https://i.pinimg.com/236x/1c/82/17/1c82178964a59246e11a1da4d862a927.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "M3gan Wallpaper  ",
+      "title":"M3gan Wallpaper  29",
+      "image":"https://i.pinimg.com/236x/5e/52/af/5e52af914e4147915c3769871b6e7531.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "M3gan Wallpaper ",
+      "title":"M3gan Wallpaper  30",
+      "image":"https://i.pinimg.com/236x/bb/df/d0/bbdfd04ef0789d725d82c6ee36647e5f.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 31",
+      "image":"https://i.pinimg.com/236x/b4/39/01/b43901b4480d3e554dc298961e8cd6aa.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 32",
+      "image":"https://i.pinimg.com/236x/71/86/5f/71865fa46827bb7a0bbc5bb2f01cb2d4.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 33",
+      "image":"https://i.pinimg.com/236x/ef/1f/53/ef1f53a30b9cd91571b00cac15b12096.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 34",
+      "image":"https://i.pinimg.com/236x/51/bf/10/51bf105c7144b1f140d8a777481f80e8.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 35",
+      "image":"https://i.pinimg.com/236x/7f/7d/02/7f7d028dd81ba6e9ea1de1bb8df72186.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 36",
+      "image":"https://i.pinimg.com/236x/ad/55/34/ad553431456fc247d41069aa06e1539d.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 37",
+      "image":"https://i.pinimg.com/236x/a2/d2/82/a2d282907c8c3d2fe55e97cae249f005.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 38",
+      "image":"https://i.pinimg.com/236x/48/26/b1/4826b1f3a7cebdde48dc3aebfbba242e.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 39",
+      "image":"https://i.pinimg.com/474x/bd/8e/bd/bd8ebdb205da23a271ee0ba807deeeb0.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 40",
+      "image":"https://i.pinimg.com/236x/bc/05/eb/bc05eb90d19c56db1e38365579b4dae7.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 41",
+      "image":"https://i.pinimg.com/236x/a3/16/d0/a316d02324e3004593b69bee9c61642b.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 42",
+      "image":"https://i.pinimg.com/236x/58/fd/8d/58fd8d0cdf2f78d0073955617825be67.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 43",
+      "image":"https://i.pinimg.com/236x/03/01/5f/03015f4d18650d89b9ec131788943322.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 44",
+      "image":"https://i.pinimg.com/236x/05/4d/c2/054dc278b8b4c1715909834a9635fab8.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 45",
+      "image":"https://i.pinimg.com/236x/4d/d4/b1/4dd4b174b17d47dcb713ec39150a3009.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 46",
+      "image":"https://i.pinimg.com/236x/35/f9/29/35f929377f22bb3d977da8b2daad0fa8.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 47",
+      "image":"https://i.pinimg.com/236x/f3/4d/99/f34d99cb83b2ceda88549258ae556c1a.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 48",
+      "image":"https://i.pinimg.com/236x/eb/52/9c/eb529cc4da31790ea0adff5240d58030.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 49",
+      "image":"https://i.pinimg.com/236x/8c/9d/26/8c9d26cadf014cebcbbcd763526ebff5.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 50",
+      "image":"https://i.pinimg.com/236x/97/97/8b/97978ba390132e50649206dceaec98a3.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 51",
+      "image":"https://i.pinimg.com/236x/58/07/14/580714825e88174b9fb42f4b2d5683fb.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 52",
+      "image":"https://i.pinimg.com/236x/7f/91/15/7f9115a4fca7fd3a65dd2ef4a038a277.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 53",
+      "image":"https://i.pinimg.com/236x/cd/9e/b5/cd9eb5b8eba7c987c13788188d4eaf44.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 54",
+      "image":"https://i.pinimg.com/236x/4c/8c/b5/4c8cb5b4380be2840563e31e56c30a49.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 55",
+      "image":"https://i.pinimg.com/236x/ee/1d/5e/ee1d5e4aac9b6ee962bc2a63c78a62b1.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 56",
+      "image":"https://i.pinimg.com/236x/7a/c6/ca/7ac6ca4f310cbe49f5df7b9835d1e610.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 57",
+      "image":"https://i.pinimg.com/236x/fb/b8/0a/fbb80a26552926ed79883499deb26090.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 58",
+      "image":"https://i.pinimg.com/236x/f4/aa/47/f4aa47e0b2553fbb2f93822eae50a185.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 59",
+      "image":"https://i.pinimg.com/236x/2f/47/17/2f47171099f8dc5b02a6bd5fb0c09e70.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 60",
+      "image":"https://i.pinimg.com/236x/eb/1c/b6/eb1cb64916360941cfdf03008cedfc1f.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 61",
+      "image":"https://i.pinimg.com/236x/eb/6b/07/eb6b07fe6c44934ae8d5f4f0016185d0.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 62",
+      "image":"https://i.pinimg.com/236x/14/9d/f3/149df32f5cfe15568acee16c935fea65.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 63",
+      "image":"https://i.pinimg.com/236x/34/6c/08/346c08de31ce6ab6d00f934876a7a997.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 64",
+      "image":"https://i.pinimg.com/236x/99/4c/e0/994ce034f982e42bd6b08d08beae40cd.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 65",
+      "image":"https://i.pinimg.com/236x/44/91/1e/44911ef4c032c151d959e5a1f8b58b3b.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 66",
+      "image":"https://i.pinimg.com/236x/78/c3/93/78c393448561d5e141ffab4da8192881.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 67",
+      "image":"https://i.pinimg.com/236x/38/0c/ea/380ceaeed3c59daf6876c4c8f2f5ecea.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 68",
+      "image":"https://i.pinimg.com/236x/a1/3c/ab/a13cab99f90d6fd43bca21b3e11f9961.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 69",
+      "image":"https://i.pinimg.com/236x/45/6f/34/456f345e546a29a49859601d34ae75b9.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 70",
+      "image":"https://i.pinimg.com/236x/72/f4/ec/72f4ecb3e0094f95ca155186eb9dbada.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 71",
+      "image":"https://i.pinimg.com/236x/34/25/6d/34256d708b7ea08d474b5736a3f12543.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 72",
+      "image":"https://i.pinimg.com/236x/b6/83/b5/b683b55a453eed017e26c294caa1a1f7.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 73",
+      "image":"https://i.pinimg.com/236x/9b/5f/7b/9b5f7b24263348ae6f4e9b5a45803ee1.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 74",
+      "image":"https://i.pinimg.com/474x/5a/85/8f/5a858f36736162ac03c9ef20bb31e7a9.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 75",
+      "image":"https://i.pinimg.com/474x/e8/98/3b/e8983bdc5a20212763a728707b7e0cd3.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 76",
+      "image":"https://i.pinimg.com/236x/c8/87/cc/c887ccdb400e846ceb44437da1eb0f91.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 77",
+      "image":"https://i.pinimg.com/474x/e8/98/3b/e8983bdc5a20212763a728707b7e0cd3.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 78",
+      "image":"https://i.pinimg.com/474x/8a/54/cf/8a54cfc0c2c0aa5d4b72815913a60ca4.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 79",
+      "image":"https://i.pinimg.com/236x/3a/5e/42/3a5e4289901c101e66617e680bd8ed34.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "M3gan 4K",
+      "title":"M3gan 4K 80",
+      "image":"https://i.pinimg.com/236x/6e/31/4d/6e314d48108c9bbe20d93fd0ca97db10.jpg"
+    }
+  ]
+}
