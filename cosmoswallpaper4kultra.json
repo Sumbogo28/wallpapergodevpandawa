@@ -29,5 +29,26 @@
       "on_off_category":""
     }
   ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
   "content_url" : "https://shaqilasaffron.com/wallpaper_project/com.pandawaproject.cosmoswallpaper4kultra/scan.php"
 }
